@@ -4,6 +4,8 @@
 -Here is a [wikipedia page about Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology)
 -Here is a [page about norwegian traditions continued today](https://en.wikipedia.org/wiki/Culture_of_Norway)
 -Here is a [youtube channel highighting the history of Norway](https://www.youtube.com/watch?v=5KmOfwcvwnU)
+-Here is a [website detailing differences in past vs. present Norway](https://www.thorsoak.info/p/asatru.html)
+-Here is a [wikipedia page discussing Norse translations of the bible](https://en.wikipedia.org/wiki/Bible_translations_in_Norway)
 
 
 
