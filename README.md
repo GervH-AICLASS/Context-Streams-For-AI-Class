@@ -17,6 +17,7 @@ Week 3 Context
 - Here is a [website link to popular scandi bands in Europe](https://www.the-independent.com/arts-entertainment/music/features/wardruna-interview-norse-folk-music-bands-viking-b1791120.html)
 - Here is a [link to Suno song](https://suno.com/song/c89a6e41-20da-4efc-bda2-4c8ea0279fac)
 - Here is a [link to wikipedia page about popular Norway bands/music](https://en.wikipedia.org/wiki/Nordic_popular_music)
+- Here is a [link to a picture depicting war between pagans and christians](https://pfst.cf2.poecdn.net/base/image/a6b58f1c12c89051407f02c7daf32109f52538a8988a605552f2f562f32bf4fc?w=1024&h=1024&pmaid=139392766)
 
 
-More material to be added later here
+- More material to be added later here
