@@ -7,7 +7,8 @@
 - Here is a [website detailing differences in past vs. present Norway](https://www.thorsoak.info/p/asatru.html)
 - Here is a [wikipedia page discussing Norse translations of the bible](https://en.wikipedia.org/wiki/Bible_translations_in_Norway)
 - Here is a [youtube link to early translation of Lord's Prayer into Old Norse](https://www.youtube.com/watch?v=DSWXEKChD5M)
-
+- Here is a [website link to popular scandi bands in Europe](https://www.the-independent.com/arts-entertainment/music/features/wardruna-interview-norse-folk-music-bands-viking-b1791120.html)
+- [Here is a link to Suno song](https://suno.com/song/c89a6e41-20da-4efc-bda2-4c8ea0279fac)
 
 
 More material to be added later here
