@@ -22,6 +22,6 @@ Week 3 Context
 Week 4 Context
 
 - Here is a [link to Suno song further anyalyzed and developed](https://suno.com/song/f935f1b2-5e58-4d74-9afa-78c43825cca1)
-- 
+- Here is a [link to POE/Claude](https://poe.com/chat/3jxv3hvb34qmu2l0blg)
 
 - More material to be added later here
