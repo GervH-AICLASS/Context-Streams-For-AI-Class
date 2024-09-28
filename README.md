@@ -30,5 +30,6 @@ Week 5 Context
 - Here is a [link to new suno song](https://suno.com/song/55aaea54-6ae6-4326-a539-9ec479856603)
 - Here is a [link to github repo used for new website pages](https://github.com/GervH-AICLASS/GervHRepoAICLASS.git)
 - Here is a [link to Old Norse religion used to add to github repo](https://en.wikipedia.org/wiki/Old_Norse_religion)
+- Here is a [link to Encyclopedia detailing Valhalla fed to poe to analyze](https://www.worldhistory.org/Valhalla/)
 
 - More material to be added later here
