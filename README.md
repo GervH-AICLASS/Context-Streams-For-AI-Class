@@ -32,4 +32,10 @@ Week 5 Context
 - Here is a [link to Old Norse religion used to add to github repo](https://en.wikipedia.org/wiki/Old_Norse_religion)
 - Here is a [link to Encyclopedia detailing Valhalla fed to poe to analyze](https://www.worldhistory.org/Valhalla/)
 
+Week 6 Context 
+
+- Here is a [link to ideogram.ai](https://ideogram.ai/t/explore)
+- Here is a [link to github repo](https://github.com/GervH-AICLASS/GervHRepoAICLASS.git)
+- Here is a [link to website used for analysis](https://www.thorsoak.info/p/asatru.html)
+
 - More material to be added later here
