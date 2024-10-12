@@ -38,4 +38,10 @@ Week 6 Context
 - Here is a [link to github repo](https://github.com/GervH-AICLASS/GervHRepoAICLASS.git)
 - Here is a [link to website used for analysis](https://www.thorsoak.info/p/asatru.html)
 
+Week 7 Context
+
+- Here is a [link to Poe for AI coding](https://poe.com/chat/3n6nfbo8z70gaezdb90)
+- Here is a [link to Suno song](https://suno.com/song/6aef9ada-8fa0-4b54-b90e-1e5221d92f40)
+- Here is a [image created by Leonardo AI](Leonardo_Phoenix_A_dramatic_atmospheric_scene_inspired_by_the_0.jpg)
+
 - More material to be added later here
